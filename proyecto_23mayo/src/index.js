@@ -15,8 +15,8 @@ root.render(
     <Route path="/" element={<App />} />
     <Route path="Reptiles" element={<Reptiles />} />
     <Route path ="Aves" element = {<Aves />} />
+
     <Route path ="Mamíferos" element = {<Mamiferos />} />
->>>>>>> ddc44eb9ac5654eb669874d7136ca6ca4a7f913c
 </Routes>
 </BrowserRouter>
 );

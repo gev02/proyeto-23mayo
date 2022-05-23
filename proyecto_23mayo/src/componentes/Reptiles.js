@@ -3,52 +3,66 @@ import React  from "react";
 const Reptiles =() => {
 
     return(
-
-        <><div class="headerLinks">
-            <div>
-                <a href="./aves.html">Aves</a>
-                <a href="./reptiles.html">Reptiles</a>
-                <a href="./mamiferos.html">Mamíferos</a>
-                <a href="./anfibios.html">Anfibios</a>
-                <a href="./peces.html">Peces</a>
-            </div>
+<><div class="menu">
+            <p>Menu</p>
+            <a class="colorLink" href="./aves.html">Aves</a>
+            <a class="colorLink" href="./reptiles.html">Reptiles</a>
+            <a class="colorLink" href="./mamiferos.html">Mamíferos</a>
+            <a class="colorLink" href="./anfibios.html">Anfibios</a>
+            <a class="colorLink" href="./peces.html">Peces</a>
         </div>
-        <div class="header">
+        <br />
+        
+        <div class="reptiles">
                 <h1>Reptiles</h1>
-            </div><div class="gallery">
-                <figure class="galleryItem">
-                    <img src="./imagenes/zauneidechse1.jpg" class="galleryImg"/>
-                        <figcaption>Lacerta agilis</figcaption>
-                    </figure>
-                <figure class="galleryItem">
-                    <img src="./imagenes/lycaenops.jpg" class="galleryImg"/>
-                        <figcaption>Lycaenops</figcaption>
-                    </figure>
-                <figure class="galleryItem">
-                    <img src="./imagenes/bradysaurus.jpg" class="galleryImg"/>
-                        <figcaption>Bradysaurus</figcaption>
-                    </figure>
-                <figure class="galleryItem">
-                    <img src="./imagenes/hylonomus.jpg" class="galleryImg"/>
-                        <figcaption>Hylonomus</figcaption>
-                    </figure>
-                <figure class="galleryItem">
-                    <img src="./imagenes/indianGharial.jpg" class="galleryImg"/>
-                        <figcaption>Gavialis gangeticus</figcaption>
-                    </figure>
-                <figure class="galleryItem">
-                    <img src="./imagenes/iguanaIguana.jpg" class="galleryImg"/>
-                        <figcaption>Iguana iguana</figcaption>
-                    </figure>
 
-                <div>
-                    <div class="returnButton">
-                        <a href="index.html">Volver</a>
-                    </div>
+                <div class="reptiles">
+                <p>Lacerta agilis</p>
+                <img src="./imagenes/zauneidechse1.jpg"/>
+                 </div>
+
+
+                <div class="reptiles">
+                    <p> Lycaenops</p>
+                    <img src="./imagenes/lycaenops.jpg"/>
                 </div>
 
 
+                <div class="reptiles">
+                <p>Bradysaurus</p>
+                <img src="./imagenes/bradysaurus.jpg"/>
+                </div>
 
-                )
-                } </>
+
+                <div class="reptiles">
+                <p>Hylonomus</p>
+                <img src="./imagenes/hylonomus.jpg"/>
+                </div>
+
+
+                <br />
+
+
+
+                <div class="reptiles">
+                <p>Gavialis gangeticus</p>
+                <img src="./imagenes/indianGharial.jpg"/>
+                </div>
+
+                
+                <div class="reptiles">
+                <p>Varan</p>
+                <img src="./imagenes/varan.jpg"/>
+                </div>
+                
+            </div>
+            <br /><br />
+            <footer>
+                <a class="volver" href="index.html">Volver</a>
+            </footer></>
+
+
+
+                        );
+                        }
                 export default Reptiles
