@@ -1,6 +1,6 @@
 import React  from "react";
 
-const Mamíferos =() => {
+const Mamiferos =() => {
 
     return(
 
@@ -52,4 +52,4 @@ const Mamíferos =() => {
                         );
                         }
 
-                        export default Mamíferos
+                        export default Mamiferos
