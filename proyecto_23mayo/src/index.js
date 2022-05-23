@@ -6,6 +6,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Mamiferos from './componentes/Mamiferos';
 import Reptiles from './componentes/Reptiles';
+import Aves from './componentes/Aves';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -13,6 +14,7 @@ root.render(
   <Routes>
     <Route path="/" element={<App />} />
     <Route path="reptiles" element={<Reptiles />} />
+    <Route path ="Aves" element = {<Aves />} />
 </Routes>
 </BrowserRouter>
 );
