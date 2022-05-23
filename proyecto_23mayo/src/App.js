@@ -3,7 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <><div>
+    <>
+    <div>
       <nav
         style={{
           borderBottom: "solid 1px",
@@ -15,7 +16,8 @@ function App() {
         <Link to="/mamiferos">Mamíferos</Link>
       </nav>
       <h1>Estas son las familias de animales</h1>
-    </div><br>
+    </div>
+    <br/>
         <div class="animales">
           <a href="./aves.html">Aves</a>
         </div>
@@ -35,7 +37,7 @@ function App() {
         <div class="animales">
           <a href="./peces.html">Peces</a>
         </div> 
-        </> </>
+        </>
 
         
         );
