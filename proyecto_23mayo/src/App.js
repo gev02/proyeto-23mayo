@@ -26,10 +26,10 @@ function App() {
           <a href="./peces.html">Peces</a>
         </div> 
         </> </>
+        
         );
         }
 
         export default App;
       
 
-        
