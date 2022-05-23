@@ -6,6 +6,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Mamíferos from './componentes/Mamiferos';
 import Reptiles from './componentes/Reptiles';
+import Aves from './componentes/Aves';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
