@@ -16,29 +16,29 @@ const Reptiles =() => {
                 <h1>Reptiles</h1>
             </div><div class="gallery">
                 <figure class="galleryItem">
-                    <img src="./imagenes/zauneidechse1.jpg" class="galleryImg">
+                    <img src="./imagenes/zauneidechse1.jpg" class="galleryImg"/>
                         <figcaption>Lacerta agilis</figcaption>
-                    </></figure>
+                    </figure>
                 <figure class="galleryItem">
-                    <img src="./imagenes/lycaenops.jpg" class="galleryImg">
+                    <img src="./imagenes/lycaenops.jpg" class="galleryImg"/>
                         <figcaption>Lycaenops</figcaption>
-                    </></figure>
+                    </figure>
                 <figure class="galleryItem">
-                    <img src="./imagenes/bradysaurus.jpg" class="galleryImg">
+                    <img src="./imagenes/bradysaurus.jpg" class="galleryImg"/>
                         <figcaption>Bradysaurus</figcaption>
-                    </></figure>
+                    </figure>
                 <figure class="galleryItem">
-                    <img src="./imagenes/hylonomus.jpg" class="galleryImg">
+                    <img src="./imagenes/hylonomus.jpg" class="galleryImg"/>
                         <figcaption>Hylonomus</figcaption>
-                    </></figure>
+                    </figure>
                 <figure class="galleryItem">
-                    <img src="./imagenes/indianGharial.jpg" class="galleryImg">
+                    <img src="./imagenes/indianGharial.jpg" class="galleryImg"/>
                         <figcaption>Gavialis gangeticus</figcaption>
-                    </></figure>
+                    </figure>
                 <figure class="galleryItem">
-                    <img src="./imagenes/iguanaIguana.jpg" class="galleryImg">
+                    <img src="./imagenes/iguanaIguana.jpg" class="galleryImg"/>
                         <figcaption>Iguana iguana</figcaption>
-                    </></figure>
+                    </figure>
 
                 <div>
                     <div class="returnButton">
