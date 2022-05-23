@@ -26,6 +26,7 @@ function App() {
           <a href="./peces.html">Peces</a>
         </div> 
         </> </>
+
         
         );
         }
