@@ -1,5 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "react-router-dom": "^6.3.0"
+=======
+    "dum": "^1.0.0",
+    "react": "^18.1.0"
+>>>>>>> e54bd2fc6d6516a114d541ffdf8970e34b0b3ce8
   }
 }
