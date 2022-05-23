@@ -12,7 +12,8 @@ const Reptiles =() => {
                 <a href="./anfibios.html">Anfibios</a>
                 <a href="./peces.html">Peces</a>
             </div>
-        </div><div class="header">
+        </div>
+        <div class="header">
                 <h1>Reptiles</h1>
             </div><div class="gallery">
                 <figure class="galleryItem">
@@ -49,6 +50,5 @@ const Reptiles =() => {
 
 
                 )
-                }
-
-                export default Reptiles</></>
+                } </>
+                export default Reptiles
